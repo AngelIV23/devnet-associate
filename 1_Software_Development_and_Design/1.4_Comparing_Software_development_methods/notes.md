@@ -1,4 +1,4 @@
-#Waterfall
+# Waterfall
 
 - This methodology is very sequential and linear, based on a clear scope from the start and tackling each step in order. This means that as each one of the eight Waterfall stages (conception, initiation, analysis, design, construction, testing, implementation, and maintenance) are reached, the developers move on to the next step.
 - The narrow and linear nature of Waterfall makes it great for simple, unchanging projects. It is easy to manage, with each step having specific deliverables and clearly delineated start and finish points.
@@ -10,18 +10,18 @@ Advantages
 - In staff turnover matters, waterfall’s reliable documentation allows for minimal project impact.
 - In waterfall projects, progress is more easily measured, as the full scope of the work is known in advance.
 
-Disadvantages
+# Disadvantages
 - Waterfall methods rely massively on initial requirements. However, if these requirements are wrong in any manner, the project is, in technical terms, doomed
 - The entire product is only tested at the end. If bugs are written early in the code, but discovered late, their existence may have affected how another code was written. This could also lead to the ‘doom’ scenario
 
-When to use it
+# When to use it
 - When definition, not speed, is key to success.
 - The project is short or relatively simple
 - The project could impact on important systems, such as banking mainframes or public sector databases (though this depends on the project)
 - If the team or organisation isn’t in a mature enough state to adopt an agile approach
 
 
-#Agile
+# Agile
 
 - Agile approaches are designed with flexibility at heart. Developers start with a simplistic project design, and then begin to work on small modules. The work on these is performed in sprints (weekly or monthly). At the end of each sprint, priorities of the project are evaluated, and tests are run. These weekly or monthly sprints allow for bugs to be identified, and client feedback to be incorporated into the design before the next sprint is run.
 - The goal of each iteration is to create a working product, which can be displayed to stakeholders. Feedback can then be included in the next iteration or future ones.
@@ -39,7 +39,7 @@ When to use it
 - When the product is meant for an industry with quickly changing standards.
 
 
-#Lean
+# Lean
 
 - By only focussing on what’s necessary, Lean methods are often able to speed up the process, reducing project time and cost.
 - With Waterfall and Agile methods, the client/stakeholder/end user receives the product at the end of the project. However, with a Lean methodology, you are mostly focusing on building a tiny subset of features and getting that Minimal Viable Product (MVP) to your clients and the market a lot sooner than with Waterfall and Agile methods.
